@@ -4,7 +4,7 @@ from telebot import types
 import requests
 from bs4 import BeautifulSoup
 
-TOKEN = '1116247962:AAFzq2k7Mb-GvUQfb2aVljDlmHGD3dd9Xkc' # bot token from @BotFather
+# TOKEN = '1116247962:AAFzq2k7Mb-GvUQfb2aVljDlmHGD3dd9Xkc' # bot token from @BotFather
 
 bot = telebot.TeleBot(TOKEN)
 
